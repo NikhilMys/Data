@@ -1,7 +1,7 @@
 Customer,Type of Customer,Items,Net Sales,Method of Payment,Gender,Marital Status,Age
 1,Regular,1,39.50,Discover,Male,Married,32
 2,Promotional,1,102.40,Proprietary Card,Female,Married,36
-3,Regular,1,22.50,Proprietary Card,Female,Married,32,,,,,
+3,Regular,1,22.50,Proprietary Card,Female,Married,32
 4,Promotional,5,100.40,Proprietary Card,Female,Married,28
 5,Regular,2,54.00,MasterCard,Female,Married,34
 6,Regular,1,44.50,MasterCard,Female,Married,44
